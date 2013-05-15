@@ -1,1 +1,28 @@
++++++++++++++
++variable	+
++			+
++++++++++++++
+all named with letters
 
+sample:
+		type context;
+		type context_int;
+		type context_float;
+
++++++++++++++
++function	+
++			+
++++++++++++++
+start with verb
+
+sample:
+		return type
+		get_xxx(type param,...)
+		
+		return type
+		get_xxx(type param,...)
+		
++++++++++++++
++sentences	+
++			+
++++++++++++++
