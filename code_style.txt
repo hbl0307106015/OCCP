@@ -70,3 +70,12 @@ sample:
 			;;
 		}
 
+=====================================================
+|	sentences	struct								|
+|													|
+=====================================================
+except for  no other better choices , avoid using global variables
+
+macros must be definited as words consist of upper case letters
+
+
